@@ -319,6 +319,11 @@ footer p a {
     padding: 0.5% 1% 2% 0;
   }
 
+  .viewex {
+    font-weight: bold;
+    cursor: pointer;
+  }
+
   #example {
     display: none;
   }
