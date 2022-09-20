@@ -468,6 +468,11 @@ figcaption {
     clear: left;
   }
 
+  .offer:hover {
+    transform: scale(1.25);
+    cursor: pointer;
+  }
+
   /* Desktop Viewport: Style rules for form elements */
   form {
     width: auto;
