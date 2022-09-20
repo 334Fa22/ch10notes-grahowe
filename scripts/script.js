@@ -2,7 +2,7 @@
   Student Name: Owen Graham
   File Name: script.js
   Date: September 20, 2022
-*/
+*/ 
 
 //Global variables
 var video = document.getElementById("example");
